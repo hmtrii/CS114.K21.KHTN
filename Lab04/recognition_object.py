@@ -1,5 +1,5 @@
-pip install --upgrade "watson-developer-cloud>=2.4.1"
-pip install simplejson
+!pip install --upgrade "watson-developer-cloud>=2.4.1"
+!pip install simplejson
 
 import json
 from watson_developer_cloud import VisualRecognitionV3
