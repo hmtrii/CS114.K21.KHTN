@@ -8,6 +8,7 @@ visual_recognition = VisualRecognitionV3(
     '2018-03-19',
     iam_apikey='1ILZkyzgNMH6FTgPJ8WtT6WR4scQj_LNmkHRFsMN78Pj')
 
+# File path will change when run on colab.
 with open('/images/image1', 'rb') as images_file:
     classes = visual_recognition.classify(
         images_file,
