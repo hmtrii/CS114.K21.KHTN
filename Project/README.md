@@ -4,6 +4,8 @@
   + PLayers data contains following features: *name, team, position, rating, number, age, nationality, season.*
   + Match lineups data contains following features: *home_team, away_team, home_goals, away_goals, home_lineups, away_lineups.*
   
-# REPORT: https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ updating
+# REPORT: 
+https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ updating
 
-# NOTEBOOK: https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ udating
+# NOTEBOOK: 
+https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ udating
