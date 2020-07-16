@@ -8,4 +8,4 @@
 https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ updating
 
 # NOTEBOOK: 
-https://1drv.ms/w/s!AtAnttIwIby6gmR8AAZEXr4qMOb_?e=qsTDtJ updating
+https://colab.research.google.com/drive/1YiH_uYj_rP2TBsMgV7iOE3uwH1AIIxxH?usp=sharing updating
