@@ -1,1 +1,5 @@
 # CS114.K21.KHTN
+
+Huỳnh Minh Trí
+
+MSSV: 18520176
